@@ -20,6 +20,7 @@
   <img align="center" alt="Nelio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Nelio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/88684886?s=400&u=6db15411bc5613cbd5c17a81cc0533d0248d3730&v=4">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img align="center" height="30" width="40" src="https://fv9-1.failiem.lv/thumb_show.php?i=8829c6g7s&download_checksum=694369646112d9fdd1ab28e68200dce1eb3c40bb&download_timestamp=1664128397" />
 </div>
 
 ##
